@@ -3,5 +3,5 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="tagButtonWidth">230dp</dimen>
-    <dimen name="editButtonWidth">50dp</dimen>
+    <dimen name="editButtonWidth">90dp</dimen>
 </resources>
